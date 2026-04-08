@@ -5,7 +5,7 @@ Lightweight logger for Obsidian plugins. Provides prefixed console logging with 
 ## Install
 
 ```bash
-npm install @tomelliot/obsidian-logger
+npm install github:tomelliot/obsidian-logger
 ```
 
 ## Usage
